@@ -1,0 +1,3 @@
+Front tem informações sobre zonas previamente carregadas (quando liga, faz query para o servidor pedindo áreas e máquinas)
+Vai pedindo atualização sobre posição do ponto de cada máquina
+Servidor retorna localização e array com o id das áreas que estão sendo infringidas, de modo que o servidor não precisa fazer esse cálculo, só soltar o aviso se o array não for vazio e pintar as áreas que estão no array de vermelho talvez
